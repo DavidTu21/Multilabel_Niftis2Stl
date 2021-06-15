@@ -20,9 +20,9 @@ Labels do not require to be continuous, but need to be numbers (int, float...)
      <td>L5</td>
   </tr>
   <tr>
-    <td><img src="img/image.png" width=480 height=200></td>
-    <td><img src="img/1.png" width=480 height=200></td>
-    <td><img src="img/2.png" width=480 height=200></td>
+    <td><img src="img/image.png" width=450 height=180></td>
+    <td><img src="img/1.png" width=450 height=180></td>
+    <td><img src="img/2.png" width=450 height=180></td>
   </tr>
  </table>
 
