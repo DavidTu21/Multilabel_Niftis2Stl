@@ -9,8 +9,6 @@ This code can be used in many medical imaging situations as a final step of proc
 
 ![name-of-you-image](img/GL_2018.PNG)
 
-![name-of-you-image](img/image.png)
-![name-of-you-image](img/1.png)
-![name-of-you-image](img/2.png)
+![name-of-you-image](img/image.png)![name-of-you-image](img/1.png)![name-of-you-image](img/2.png)
 
 Labels do not require to be continuous, but need to be numbers (int, float...)
