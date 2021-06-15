@@ -9,8 +9,7 @@ This code can be used in many medical imaging situations as a final step of proc
 Labels do not require to be continuous, but need to be numbers (int, float...)
 
 #### Sample Input file (.Dicom)
-![name-of-you-image](img/GL_2018.PNG)
-<img align="middle" src="img/GL_2018.PNG" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<img align="middle" src="img/GL_2018.PNG" width=480 height=400 alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 
 #### Sample Output .STL Files
 
