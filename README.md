@@ -18,9 +18,9 @@ This code can be used in many medical imaging situations as a final step of proc
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="img/image.png" width=480 height=270></td>
-    <td><img src="img/1.png" width=480 height=270></td>
-    <td><img src="img/2.png" width=480 height=270></td>
+    <td><img src="img/image.png" width=480 height=220></td>
+    <td><img src="img/1.png" width=480 height=220></td>
+    <td><img src="img/2.png" width=480 height=220></td>
   </tr>
  </table>
 
