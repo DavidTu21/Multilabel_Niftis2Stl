@@ -7,8 +7,21 @@ The segmented nii.gz file contains series of identical labels, such as 1,2,4,5. 
 
 This code can be used in many medical imaging situations as a final step of processing output that be read by clients.
 
-![name-of-you-image](img/GL_2018.PNG)
 
-![name-of-you-image](img/image.png)![name-of-you-image](img/1.png)![name-of-you-image](img/2.png)
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="img/image.png" width=270 height=480></td>
+    <td><img src="img/1.png" width=270 height=480></td>
+    <td><img src="img/2.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 Labels do not require to be continuous, but need to be numbers (int, float...)
