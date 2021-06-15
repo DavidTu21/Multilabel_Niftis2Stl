@@ -5,6 +5,7 @@ import numpy as np
 
 if __name__ == '__main__':
     
+    # can be done in a loop if you have multiple files to be processed, speed is guaranteed if GPU is used:)
     filename_nii =  'verse096_seg.nii.gz'
     filename = filename_nii.split(".")[0]
 
