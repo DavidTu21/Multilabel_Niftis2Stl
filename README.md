@@ -37,6 +37,6 @@ It will also smooth the surface (parameters can be changed) for the outputs
   </tr>
   <tr>
     <td><img src="img/no smooth.png" width=280 height=200></td>
-    <td><img src="img/smoothed.png" width=280 height=200></td>
+    <td><img src="img/smoothed.png" width=270 height=200></td>
   </tr>
  </table>
