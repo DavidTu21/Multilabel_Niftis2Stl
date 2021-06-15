@@ -19,10 +19,23 @@ Labels do not require to be continuous, but need to be numbers (int, float...)
      <td>L5</td>
   </tr>
   <tr>
-    <td><img src="img/image.png" width=480 height=220></td>
-    <td><img src="img/1.png" width=480 height=220></td>
-    <td><img src="img/2.png" width=480 height=220></td>
+    <td><img src="img/image.png" width=480 height=200></td>
+    <td><img src="img/1.png" width=480 height=200></td>
+    <td><img src="img/2.png" width=480 height=200></td>
   </tr>
  </table>
 
+It will also smooth the surface (parameters can be changed) for the outputs
 
+#### Sample Output .STL Files
+
+<table>
+  <tr>
+    <td>No smooth</td>
+     <td>Smoothed</td>
+  </tr>
+  <tr>
+    <td><img src="img/no smooth.png" width=480 height=200></td>
+    <td><img src="img/smoothed.png" width=480 height=200></td>
+  </tr>
+ </table>
