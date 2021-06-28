@@ -47,3 +47,6 @@ It will also smooth the surface (parameters can be changed) for the outputs
 cd YOUR_RESULT_FOLDER
 python nii_2_mesh_v3.py
 ```
+
+### Future development
+Output the corresponding .json file with all the coordinates for each label and the bounding box may be helpfful.
