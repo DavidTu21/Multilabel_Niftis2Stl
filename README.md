@@ -44,6 +44,6 @@ It will also smooth the surface (parameters can be changed) for the outputs
 
 ### Usage
 ```ruby
-cd RESULT_FOLDER
-python
+cd YOUR_RESULT_FOLDER
+python nii_2_mesh_v3.py
 ```
