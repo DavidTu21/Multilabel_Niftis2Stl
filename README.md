@@ -41,3 +41,9 @@ It will also smooth the surface (parameters can be changed) for the outputs
     <td><img src="img/smoothed.png" width=270 height=200></td>
   </tr>
  </table>
+
+### Usage
+'''
+cd RESULT_FOLDER
+python 
+'''
