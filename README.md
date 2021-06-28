@@ -47,3 +47,9 @@ It will also smooth the surface (parameters can be changed) for the outputs
 cd RESULT_FOLDER
 python 
 '''
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
