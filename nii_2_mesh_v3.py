@@ -19,7 +19,7 @@ if __name__ == '__main__':
     reader.SetFileName(filename_nii)
     reader.Update()
     
-    
+    # for all labels presented in the segmented file
     for label in labels:
 
         if int(label) != 0:
@@ -36,6 +36,8 @@ if __name__ == '__main__':
                 smoother.SetInput(surf.GetOutput())
             else:
                 smoother.SetInputConnection(surf.GetOutputPort())
+            
+            # increase this integer set number of iterations if smoother surface wanted
             smoother.SetNumberOfIterations(30) 
             smoother.NonManifoldSmoothingOn()
             smoother.NormalizeCoordinatesOn() #The positions can be translated and scaled such that they fit within a range of [-1, 1] prior to the smoothing computation
@@ -48,6 +50,7 @@ if __name__ == '__main__':
             writer.SetFileTypeToASCII()
             
             # file name need to be changed
+            # save as the .stl file, can be changed to other surface mesh file
             writer.SetFileName(f'{filename}_{label}.stl')
             writer.Write()
         
