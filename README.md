@@ -1,7 +1,7 @@
 # Multilabel Niftis2Stl
-Simple python code to transfer one segmented nii.gz file to a list of stl files based on the labels
+Simple python code that transfers a single segmented nii.gz file to a list of stl files based on the labels inside.
 
-The segmented nii.gz file contains series of identical labels, such as 1,2,4,5. Then the code could transfer this single nii.gz file into series of .stl file using simpleITK and vtk to create the mesh. 
+Your output segmented nii.gz file from other segmentation algorithms may contain series of identical labels, such as 1,2,4,5. If you would like to view or save them seperately without using expensive software, or you want to integrate this function into your own code, then the code will be helpful. It could transfer this single nii.gz file into series of .stl files using simpleITK and vtk to create the mesh and save these individual files in your folder. 
 
 ![name-of-you-image](img/new.PNG)
 
