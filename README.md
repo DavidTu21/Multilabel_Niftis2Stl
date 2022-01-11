@@ -49,4 +49,4 @@ python nii_2_mesh_v3.py
 ```
 
 ### Future development
-Output the corresponding .json file with all the coordinates for each label and the bounding box may be helpfful.
+Output the corresponding .json file with all the coordinates for each label and the bounding box may be helpful.
